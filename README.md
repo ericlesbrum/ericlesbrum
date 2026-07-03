@@ -1,8 +1,6 @@
 ### Olá! Me chamo Ericles Brum 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericlesbrum/)[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ericlesbrum)
 
-![Ericles GitHub stats](https://github-readme-stats.vercel.app/api?username=ericlesbrum&show_icons=true&theme=tokyonight)
-
 ## Tecnologias que possuo experiência
 <div>
     <img align="center" alt="unity"/ src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
